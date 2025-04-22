@@ -45,7 +45,6 @@ This project was created as part of a **Data Analyst Internship Task 2: Data Vis
 
 ---
 
-## 📷 Dashboard Screenshot
 
 ## 📷 Dashboard Screenshot
 
